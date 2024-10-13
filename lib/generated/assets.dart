@@ -2,11 +2,17 @@
 class Assets {
   Assets._();
 
+  static const String componentHome = 'lib/component/Home.dart';
+  static const String componentManagePage = 'lib/component/ManagePage.dart';
   static const String generatedAssets = 'lib/generated/assets.dart';
+  static const String iconsFish9113Icons = 'lib/icons/fish_9113_icons.dart';
   static const String libApp = 'lib/app.dart';
   static const String libMain = 'lib/main.dart';
+  static const String libTestLogin = 'lib/TestLogin.dart';
   static const String modelOrder = 'lib/model/Order.dart';
   static const String modelOrderDetail = 'lib/model/OrderDetail.dart';
   static const String modelProduct = 'lib/model/Product.dart';
+  static const String routerRouter = 'lib/router/router.dart';
+  static const String widgetAppBarIcon = 'lib/Widget/AppBarIcon.dart';
 
 }
